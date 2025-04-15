@@ -1,0 +1,11 @@
+.primarycolor{
+    background-color:indianred;
+}
+.card-img-top {
+    width: 100%;
+    height: auto; /* Isso deixa a altura da imagem flexível */
+}
+.custom-carousel img {
+    object-fit: cover;
+    height: 100%;
+}
