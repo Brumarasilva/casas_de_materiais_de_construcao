@@ -9,3 +9,11 @@
     object-fit: cover;
     height: 100%;
 }
+.navbar{
+    background-color: #decaaf;
+}
+.grifado {
+    color: red; /* Define a cor do texto como vermelho */
+    font-weight: bold; /* Deixa o texto em negrito */
+    text-decoration: underline; /* Adiciona o sublinhado */
+}
