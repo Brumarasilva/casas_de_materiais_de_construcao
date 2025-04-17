@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\casas_de_materiais_de_construcao.props" />
+</Project>

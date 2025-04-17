@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "casas_de_materiais_de_construcao/1.0.0": {
+        "runtime": {
+          "casas_de_materiais_de_construcao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "casas_de_materiais_de_construcao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

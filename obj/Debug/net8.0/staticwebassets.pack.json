@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\argamassa.html",
+      "PackagePath": "staticwebassets\\argamassa.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\esmaltes.html",
+      "PackagePath": "staticwebassets\\esmaltes.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\ferramentas.html",
+      "PackagePath": "staticwebassets\\ferramentas.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\Argamassa-Portokoll.webp",
+      "PackagePath": "staticwebassets\\img\\Argamassa-Portokoll.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\Argamassa-Quartzolit.webp",
+      "PackagePath": "staticwebassets\\img\\Argamassa-Quartzolit.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\Docs banner obras moderno amarelo e preto (1).png",
+      "PackagePath": "staticwebassets\\img\\Docs banner obras moderno amarelo e preto (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\Revestimento-de-parede-HD-Oasis-Topazio-brilhante-bold-31x54cm-cinza-e-bege-Savane.webp",
+      "PackagePath": "staticwebassets\\img\\Revestimento-de-parede-HD-Oasis-Topazio-brilhante-bold-31x54cm-cinza-e-bege-Savane.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\Telha-ondulada-de-fibrocimento-244x110cm-5mm-Confibra.webp",
+      "PackagePath": "staticwebassets\\img\\Telha-ondulada-de-fibrocimento-244x110cm-5mm-Confibra.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\carroçademao.jpg",
+      "PackagePath": "staticwebassets\\img\\carroçademao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\janela.jpg",
+      "PackagePath": "staticwebassets\\img\\janela.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\janela.webp",
+      "PackagePath": "staticwebassets\\img\\janela.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\janela_.jpg",
+      "PackagePath": "staticwebassets\\img\\janela_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\logo_header.svg",
+      "PackagePath": "staticwebassets\\img\\logo_header.svg"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\porcelanatopiso.webp",
+      "PackagePath": "staticwebassets\\img\\porcelanatopiso.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\porta.jpg",
+      "PackagePath": "staticwebassets\\img\\porta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\tinta.webp",
+      "PackagePath": "staticwebassets\\img\\tinta.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\torneira.jpg",
+      "PackagePath": "staticwebassets\\img\\torneira.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\torneira.webp",
+      "PackagePath": "staticwebassets\\img\\torneira.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\img\\vasosanitario.webp",
+      "PackagePath": "staticwebassets\\img\\vasosanitario.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\janelas.html",
+      "PackagePath": "staticwebassets\\janelas.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\materiaiseletricos.html",
+      "PackagePath": "staticwebassets\\materiaiseletricos.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\materiaishidraulicos.html",
+      "PackagePath": "staticwebassets\\materiaishidraulicos.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\metais.html",
+      "PackagePath": "staticwebassets\\metais.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\nossahistoria.html",
+      "PackagePath": "staticwebassets\\nossahistoria.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\parasuaconstrucao.html",
+      "PackagePath": "staticwebassets\\parasuaconstrucao.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\pisoserevestimentos.html",
+      "PackagePath": "staticwebassets\\pisoserevestimentos.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\porta.html",
+      "PackagePath": "staticwebassets\\porta.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\portas.html",
+      "PackagePath": "staticwebassets\\portas.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\produtos.html",
+      "PackagePath": "staticwebassets\\produtos.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\tinta_bemaepoxi.html",
+      "PackagePath": "staticwebassets\\tinta_bemaepoxi.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\tintas.html",
+      "PackagePath": "staticwebassets\\tintas.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\torneira.html",
+      "PackagePath": "staticwebassets\\torneira.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\wwwroot\\vernizes.html",
+      "PackagePath": "staticwebassets\\vernizes.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.casas_de_materiais_de_construcao.props",
+      "PackagePath": "build\\casas_de_materiais_de_construcao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.casas_de_materiais_de_construcao.props",
+      "PackagePath": "buildMultiTargeting\\casas_de_materiais_de_construcao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.casas_de_materiais_de_construcao.props",
+      "PackagePath": "buildTransitive\\casas_de_materiais_de_construcao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.casas_de_materiais_de_construcao.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
