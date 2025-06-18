@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\casas_de_materiais_de_construcao.csproj": {}
+    "C:\\Users\\Alunos\\OneDrive\\Documentos\\bruna\\casas_de_materiais_de_construcao\\casas_de_materiais_de_construcao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\casas_de_materiais_de_construcao.csproj": {
+    "C:\\Users\\Alunos\\OneDrive\\Documentos\\bruna\\casas_de_materiais_de_construcao\\casas_de_materiais_de_construcao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\casas_de_materiais_de_construcao.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\bruna\\casas_de_materiais_de_construcao\\casas_de_materiais_de_construcao.csproj",
         "projectName": "casas_de_materiais_de_construcao",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\casas_de_materiais_de_construcao.csproj",
+        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\bruna\\casas_de_materiais_de_construcao\\casas_de_materiais_de_construcao.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\bruna\\casas_de_materiais_de_construcao\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\bruna\\casas_de_materiais_de_construcao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
